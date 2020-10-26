@@ -90,8 +90,8 @@ POSSIBILITY OF SUCH DAMAGE.
             <topicName>odom_ground_truth</topicName>
             <frameName>map</frameName>
             <updateRate>30</updateRate>
-            <xyzOffset>0.0 0.0 0.0</xyzOffset>
-            <rpyOffset>0.0 0.0 0.0</rpyOffset>
+            <xyzOffset>7.5 -1.0 -0.304866</xyzOffset>
+            <rpyOffset>0.0 0.0 -1.57</rpyOffset>
         </plugin>
     </gazebo>
 </robot>
